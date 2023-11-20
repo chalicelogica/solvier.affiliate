@@ -1064,12 +1064,13 @@
   .u-section-5 .u-image-1 {
     width: 120px;
     height: 109px;
-    margin-top: 330px;
+    margin-top: 336px;
+    margin-right: calc(((100% - 340px) / 2) + -51px);
   }
 
   .u-section-5 .u-text-1 {
     width: 340px;
-    margin-top: -373px;
+    margin-top: -379px;
     margin-left: auto;
     margin-right: auto;
   }
@@ -1292,8 +1293,8 @@
   }
 
   .u-section-6 .u-text-1 {
-    margin-right: 144px;
     margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-6 .u-text-2 {
